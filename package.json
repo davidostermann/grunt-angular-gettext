@@ -46,6 +46,6 @@
     "gettext"
   ],
   "dependencies": {
-    "angular-gettext-tools": "https://github.com/davidostermann/angular-gettext-tools.git"
+    "angular-gettext-tools": "https://github.com/davidostermann/angular-gettext-tools/tarball/master"
   }
 }
